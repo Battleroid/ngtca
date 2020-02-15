@@ -84,7 +84,7 @@ See [sample](sample/) for an example. The Sample page is created as one of the f
 
 ### Example Usage
 
-Sample usage on [ngtca-sample](https://git.rsglab.com/ops/ngtca-sample):
+Sample usage on [ngtca_sample](ngtca_sample):
 
 ```
 $ ngtca ../ngtca-sample -l repo-ops-ngtca-sample --debug
