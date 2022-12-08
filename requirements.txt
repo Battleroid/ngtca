@@ -16,7 +16,7 @@ mistletoe==0.7.2
     # via -r requirements.in
 python-frontmatter==0.5.0
     # via -r requirements.in
-pyyaml==5.3
+pyyaml==5.4
     # via python-frontmatter
 requests==2.22.0
     # via confluence-rest-library
