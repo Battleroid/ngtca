@@ -6,7 +6,7 @@
 #
 certifi==2022.12.7
     # via requests
-chardet==3.0.4
+charset-normalizer==3.1.0
     # via requests
 confluence-rest-library==1.2.2
     # via -r requirements.in
@@ -18,7 +18,7 @@ python-frontmatter==0.5.0
     # via -r requirements.in
 pyyaml==5.4
     # via python-frontmatter
-requests==2.22.0
+requests==2.31.0
     # via confluence-rest-library
 six==1.14.0
     # via python-frontmatter
