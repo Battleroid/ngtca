@@ -22,5 +22,5 @@ requests==2.31.0
     # via confluence-rest-library
 six==1.14.0
     # via python-frontmatter
-urllib3==1.26.5
+urllib3==1.26.18
     # via requests
